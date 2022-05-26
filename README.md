@@ -2,10 +2,10 @@
 
 Cognitive Scientist. Data Scientist. Statistics. R programming. 
 
-<a href="https://www.linkedin.com/in/joshua-p-white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastoc&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/joshua-p-white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white"></a>
 <a href="https://www.researchgate.net/profile/Joshua-White-17" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white"></a>
 <a href="https://orcid.org/0000-0003-3129-5473" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=plastic&logo=ORCID&logoColor=white"></a>
-![https://scholar.google.com/citations?user=9lD32xkAAAAJ&hl=en](https://img.shields.io/badge/-Google%20Scholar-lightblue?logo=googlescholar)
+<a href="https://scholar.google.com/citations?user=9lD32xkAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Google%20Scholar-lightblue?style=plastic&logo=googlescholar"></a>
 
 
 ![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png)
