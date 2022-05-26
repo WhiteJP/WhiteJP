@@ -2,9 +2,11 @@
 
 Cognitive Scientist. Data Scientist. Statistics. R programming. 
 
-<a href="https://www.linkedin.com/in/joshua-p-white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="https://www.researchgate.net/profile/Joshua-White-17" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-<a href="https://orcid.org/0000-0003-3129-5473" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/joshua-p-white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastoc&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.researchgate.net/profile/Joshua-White-17" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white"></a>
+<a href="https://orcid.org/0000-0003-3129-5473" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=plastic&logo=ORCID&logoColor=white"></a>
+![https://scholar.google.com/citations?user=9lD32xkAAAAJ&hl=en](https://img.shields.io/badge/-Google%20Scholar-lightblue?logo=googlescholar)
+
 
 ![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png)
 
@@ -32,6 +34,12 @@ Here are some ideas to get you started:
 
 #example way to have self-updating citation number on github
 https://github.com/terrytangyuan/terrytangyuan/blob/master/README.md
+
+#other ideas
+https://github.com/topics/google-scholar?l=r
+
+# little write up ofhow toget the badges. 
+https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b
 
 
 -->
