@@ -2,6 +2,7 @@
 
 Cognitive Scientist. Data Scientist. Statistics. R programming. 
 
+![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png)
 
 
 <!--
@@ -20,6 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/R-advanced-informational?style=flat&logo=r&logoColor=white&color=5D6D7E)
 ![](https://img.shields.io/badge/Python-basic-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
+![](https://img.shields.io/badge/Javascript-beginner-informational?style=flat&logo=python&logoColor=white&color=5D6D7E)
 ![](https://img.shields.io/badge/Git-basic-informational?style=flat&logo=git&logoColor=white&color=5D6D7E)
 ![](https://img.shields.io/badge/SQL-basic-informational?style=flat&logo=sql&logoColor=white&color=5D6D7E)
 
