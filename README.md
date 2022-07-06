@@ -10,7 +10,7 @@ Cognitive Scientist. Data Scientist. Statistics. R programming.
 
 ![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteJP)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteJP)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
