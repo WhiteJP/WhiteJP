@@ -1,6 +1,6 @@
 ### Joshua White 
 
-Cognitive Scientist. Data Scientist. Statistics. R programming. 
+Cognitive Scientist. Data Scientist. Statistics. R programming. PhD Student @ MIT Sloan. 
 
 <a href="https://www.linkedin.com/in/joshua-p-white" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white"></a>
 <a href="https://www.researchgate.net/profile/Joshua-White-17" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=plastic&logo=ResearchGate&logoColor=white"></a>
