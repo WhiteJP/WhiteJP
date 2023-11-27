@@ -10,10 +10,11 @@ Cognitive Scientist. Data Scientist. Statistics. R programming. PhD Student @ MI
 
 ![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png)
 
+<!--
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteJP)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+
 **WhiteJP/WhiteJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
