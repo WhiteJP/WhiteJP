@@ -8,7 +8,7 @@ Cognitive Scientist. Data Scientist. Statistics. R programming. PhD Student @ MI
 <a href="https://scholar.google.com/citations?user=9lD32xkAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Google%20Scholar-lightblue?style=plastic&logo=googlescholar"></a>
 
 
-![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-unnamed-chunk-2-1.png)
+![](https://github.com/WhiteJP/CV/blob/master/man/figures/README-visual-resume-1.png)
 
 <!--
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteJP)](https://github.com/anuraghazra/github-readme-stats)
